@@ -10,3 +10,5 @@ create project :
 run file in command :
 `rustc filename.rs` (for first time to create filename.exe) then `.\filename.exe`
 
+format code(prettier code) :
+`rustfmt filename.rs`
